@@ -1,0 +1,67 @@
+[
+    {
+      "id": "1",
+      "nombre": "Naranja",
+      "precio": "250",
+      "category": "frutas",
+      "img": "http://www.mercadocentral.gob.ar/sites/default/files/images/naranja%20web.jpg",
+      "stock": "1000",
+      "descripcion": "Naranja Ombligo"
+    },
+
+    {
+      "id": "3",
+      "nombre": "Mandarina",
+      "precio": "150",
+      "category": "frutas",
+      "img": "https://viverocitricosanfelipe.ar/wp-content/uploads/2021/12/MANDARINA.png",
+      "stock": "1520",
+      "descripcion": "Mandarina Ellendale"
+    },
+    {
+      "id": "4",
+      "nombre": "Limon",
+      "precio": "120",
+      "category": "frutas",
+      "img": "https://assets.elgourmet.com/wp-content/uploads/2023/03/diccio_599.jpg.webp",
+      "stock": "1130",
+      "descripcion": "Limon"
+    },
+    {
+      "id": "5",
+      "nombre": "Nuez",
+      "precio": "6800",
+      "category": "frutasSecas",
+      "img": "https://s1.eestatic.com/2019/11/28/ciencia/nutricion/alimentacion-grasas-frutos_secos_447966683_139156668_1706x960.jpg",
+      "stock": "130",
+      "descripcion": "Nuez"
+    },
+    {
+      "id": "6",
+      "nombre": "Pistacho",
+      "precio": "4300",
+      "category": "frutasSecas",
+      "img": "https://www.losandes.com.ar/resizer/f4YRdbC_syO2gvwnK8pCCpdtzrs=/980x640/smart/filters:quality(75):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/grupoclarin/MU3WGYRYGA4TAMBWMY2DGZJZGM.jpg",
+      "stock": "540",
+      "descripcion": "Pistacho"
+    },
+    {
+      "id": "2",
+      "nombre": "Zapallito",
+      "precio": "780",
+      "category": "verduras",
+      "img": "https://tanveggie.com.ar/wp-content/uploads/2021/04/Zapallo-redondo-Tan-Veggie.png",
+      "stock": "2220",
+      "descripcion": "Zapallito Redondo"
+    },
+    {
+      "id": "7",
+      "nombre": "Cebolla morada",
+      "precio": "120",
+      "category": "verduras",
+      "img": "https://greenshop.ar/wp-content/uploads/sites/9/2016/08/A.6.14-M.500GR-600x600.jpg",
+      "stock": "2120",
+      "descripcion": "Cebolla morada"
+    }
+  ]
+  
